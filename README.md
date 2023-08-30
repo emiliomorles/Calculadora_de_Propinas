@@ -1,4 +1,4 @@
-# Calculadora de Propinas.
+# Calculadora de Propinas 👀
 
 Calcula propinas con facilidad usando 'Calculadora de Propinas' en Python. 
 Ingresa el costo de la comida, la cantidad de personas y el porcentaje de propina. 
